@@ -1,6 +1,6 @@
 <section id="contact">
-	<div class="inner">
-		<section>
+  <div class="inner">
+    <section>
       <h2>Contattaci!</h2>
 			<form action="https://formspree.io/{{ site.email }}" method="POST">
 				<div class="field half first">
@@ -46,41 +46,41 @@
                 {{ site.zip_code }}<br />
             {% endif %}
           </a>
-				</div>
-			</section>
-		</section>
-	</div>
+        </div>
+      </section>
+    </section>
+  </div>
 </section>
 
-	<footer id="footer">
-		<div class="inner">
-			<ul class="icons">
-				{% for key_value in site.socials %}
-					{% if key_value[1] %}
-						<li>
-							<a href="{{ key_value[1] }}" class="icon alt fa-{{ key_value[0] | downcase }}" target="_blank" rel="noopener noreferrer" aria-label="{{ key_value[0] }}">
-								<span class="label">{{ key_value[0] }}</span>
-							</a>
-						</li>
-					{% endif %}
-				{% endfor %}
-			</ul>
-			<ul class="copyright">
-				<li>&copy; {{ site.title }} {{ site.subtitle }}</li>
-				<li>Design: <a href="https://html5up.net" target="_blank">HTML5 UP</a></li>
-			</ul>
-		</div>
-	</footer>
+  <footer id="footer">
+    <div class="inner">
+      <ul class="icons">
+        {% for key_value in site.socials %}
+          {% if key_value[1] %}
+            <li>
+              <a href="{{ key_value[1] }}" class="icon alt fa-{{ key_value[0] | downcase }}" target="_blank" rel="noopener noreferrer" aria-label="{{ key_value[0] }}">
+                <span class="label">{{ key_value[0] }}</span>
+              </a>
+            </li>
+          {% endif %}
+        {% endfor %}
+      </ul>
+      <ul class="copyright">
+        <li>&copy; {{ site.title }} {{ site.subtitle }}</li>
+        <li>Design: <a href="https://html5up.net" target="_blank">HTML5 UP</a></li>
+      </ul>
+    </div>
+  </footer>
   <div id="fb-root"></div>
 </div>
 
-	<script src="{{ "assets/js/jquery.min.js" | absolute_url }}"></script>
-	<script src="{{ "assets/js/jquery.scrolly.min.js" | absolute_url }}"></script>
-	<script src="{{ "assets/js/jquery.scrollex.min.js" | absolute_url }}"></script>
-	<script src="{{ "assets/js/skel.min.js" | absolute_url }}"></script>
-	<script src="{{ "assets/js/util.js" | absolute_url }}"></script>
-	<!--[if lte IE 8]><script src="{{ "assets/js/ie/respond.min.js" | absolute_url }}"></script><![endif]-->
-	<script src="{{ "assets/js/main.js" | absolute_url }}"></script>
+  <script src="{{ "assets/js/jquery.min.js" | absolute_url }}"></script>
+  <script src="{{ "assets/js/jquery.scrolly.min.js" | absolute_url }}"></script>
+  <script src="{{ "assets/js/jquery.scrollex.min.js" | absolute_url }}"></script>
+  <script src="{{ "assets/js/skel.min.js" | absolute_url }}"></script>
+  <script src="{{ "assets/js/util.js" | absolute_url }}"></script>
+  <!--[if lte IE 8]><script src="{{ "assets/js/ie/respond.min.js" | absolute_url }}"></script><![endif]-->
+  <script src="{{ "assets/js/main.js" | absolute_url }}"></script>
   <script src="{{ "assets/js/multi-animated-counter.js" | absolute_url }}"></script>
   <script src="https://kit.fontawesome.com/de4005b541.js" crossorigin="anonymous"></script>
   <script async defer crossorigin="anonymous" src="https://connect.facebook.net/it_IT/sdk.js#xfbml=1&version=v15.0&appId=804877313913010&autoLogAppEvents=1" nonce="xdSNQHE3"></script>

@@ -10,10 +10,10 @@ nav-menu: true
 
 <!-- One -->
 <section id="one">
-	<div class="inner">
-		<header class="major">
-			<h1>Calendario 2023</h1>
-		</header>
+  <div class="inner">
+    <header class="major">
+      <h1>Calendario 2023</h1>
+    </header>
     <div class="row">
       <div class="6u 12u$(small)">
         <h2>Appuntamenti Sociali</h2>

@@ -1,29 +1,29 @@
 <div id="wrapper">
 
 <header id="header"{% if page.layout == "landing" %} class="alt style2"{% endif %}{% if page.layout == "home" %} class="alt"{% endif %}>
-	<a href="/" class="logo-img">
+  <a href="/" class="logo-img">
     <img src="{% link assets/images/logo-small.png %}" alt="Logo SCD Fanese" />
   </a>
   <a href="/" class="logo">
     <strong>{{ site.title }}</strong>
     <span>{{ site.subtitle }}</span>
   </a>
-	<nav>
-		<a href="#menu">Menu</a>
-	</nav>
+  <nav>
+    <a href="#menu">Menu</a>
+  </nav>
 </header>
 
 <nav id="menu">
-	<ul class="links">
+  <ul class="links">
         {% for page in site.pages %}
-		    {% if page.layout == "home" %}
-		        <li><a href="{{ "" | absolute_url }}/">{{ page.title }}</a></li>
-	    	{% endif %}
-		{% endfor %}
-		{% for page in site.html_pages %}
-		    {% if page.layout != "home" and page.nav-menu == true %}
-		        <li><a href="{{ page.url | absolute_url }}">{{ page.title }}</a></li>
-		    {% endif %}
-		{% endfor %}
-	</ul>
+        {% if page.layout == "home" %}
+            <li><a href="{{ "" | absolute_url }}/">{{ page.title }}</a></li>
+        {% endif %}
+    {% endfor %}
+    {% for page in site.html_pages %}
+        {% if page.layout != "home" and page.nav-menu == true %}
+            <li><a href="{{ page.url | absolute_url }}">{{ page.title }}</a></li>
+        {% endif %}
+    {% endfor %}
+  </ul>
 </nav>
