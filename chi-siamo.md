@@ -21,28 +21,27 @@ nav-menu: true
       <div class="row">
         <div class="6u 12u$(small)">
           <h3>
-            Organigramma della società<br>
-            (vecchio, da aggiornare):
+            Organigramma della società
           </h3>
           <dl class="two-columns">
             <dt>Presidente Onorario</dt>
-            <dd>Volpini Lorenzo</dd>
+            <dd>Lorenzo Volpini</dd>
             <dt>Presidente</dt>
-            <dd>Iacomucci Valter</dd>
+            <dd>Valter Iacomucci</dd>
             <dt>Vice presidente</dt>
-            <dd>Tavoleti Paolo</dd>
+            <dd>Paolo Tavoleti</dd>
             <dt>Segretario</dt>
-            <dd>Berluti Hamos</dd>
+            <dd>Hamos Berluti</dd>
             <dt>Consiglieri</dt>
-            <dd>Bacchiocchi Flavio</dd>
-            <dd>Berluti Hamos</dd>
-            <dd>Gervasi Luca</dd>
-            <dd>Iacomucci Valter</dd>
-            <dd>Leone Giuseppe</dd>
-            <dd>Paolinelli Stefano</dd>
-            <dd>Riberti alias Roberti Loris</dd>
-            <dd>Riberti Massimo</dd>
-            <dd>Tavoleti Paolo </dd>
+            <dd>Valter Iacomucci</dd>
+            <dd>Paolo Tavoleti</dd>
+            <dd>Loris Riberti</dd>
+            <dd>Hamos Berluti</dd>
+            <dd>Sara Sperandini</dd>
+            <dd>Francesco Piersanti</dd>
+            <dd>Massimo Riberti</dd>
+            <dd>Nicola Bellucci</dd>
+            <dd>Thomas Moscatelli</dd>
           </dl>
         </div>
         <div class="6u 12u$(small)">
