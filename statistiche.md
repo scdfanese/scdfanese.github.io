@@ -16,16 +16,16 @@ nav-menu: true
         <div class="6u 12u$(small)">
           <h3>Numeri</h3>
           <ul class="alt counters">
-            <li><strong class="counter" data-TargetNum="90" data-Speed="1500">0</strong> Percorsi</li>
-            <li><strong class="counter" data-TargetNum="7960" data-Speed="1500">0</strong> kilometri</li>
-            <li><strong class="counter" data-TargetNum="78551" data-Speed="1500"></strong> metri di dislivello</li>
+            <li><strong class="counter" data-TargetNum="91" data-Speed="1500">0</strong> Percorsi</li>
+            <li><strong class="counter" data-TargetNum="8518" data-Speed="1500">0</strong> kilometri</li>
+            <li><strong class="counter" data-TargetNum="82848" data-Speed="1500"></strong> metri di dislivello</li>
           </ul>
         </div>
         <div class="6u$ 12u$(small)">
           <h3>Heatmap</h3>
           <span class="image fit">
-            <a href="{% link assets/images/giri 2022.png %}" target="_blank">
-              <img src="{% link assets/images/giri 2022.png %}" alt="Heatmap giri weekend 2022" />
+            <a href="{% link assets/images/heatmap 2022.png %}" target="_blank">
+              <img src="{% link assets/images/heatmap 2022.png %}" alt="Heatmap dei giri del weekend 2022" />
             </a>
           </span>
         </div>
