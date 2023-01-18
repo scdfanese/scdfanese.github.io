@@ -298,5 +298,10 @@
         // Hide on escape.
         if (event.keyCode == 27) $menu._hide();
       });
+
+    // Async iframes load
+    $('iframe[data-async-src]').each(function() {
+      $(this).attr('src', $(this).data('async-src'));
+    });
   });
 })(jQuery);
