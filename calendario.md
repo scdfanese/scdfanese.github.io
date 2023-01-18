@@ -2,7 +2,7 @@
 layout: page
 title: Calendario
 image: assets/images/pic01.jpg
-nav-menu: true
+menu-position: 2
 ---
 
 <!-- Main -->

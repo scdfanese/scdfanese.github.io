@@ -2,7 +2,6 @@
 layout: page
 title: MF Città della Fortuna
 image: assets/images/pic01.jpg
-nav-menu: false
 ---
 
 <div id="main" class="alt">

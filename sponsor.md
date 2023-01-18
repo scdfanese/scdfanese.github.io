@@ -2,7 +2,7 @@
 layout: page
 title: I Nostri Sponsor
 image: assets/images/pic01.jpg
-nav-menu: true
+menu-position: 3
 ---
 
 <div id="main" class="alt">
