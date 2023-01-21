@@ -99,10 +99,6 @@ menu-position: 2
                   <td><a href="https://www.facebook.com/profile.php?id=100075917361917" target="_blank">Randonnée del Catria</a></td>
                 </tr>
                 <tr>
-                  <td>11 Giugno</td>
-                  <td><a href="https://www.granfondodeisibillini.it/" target="_blank">G.F. Sibillini</a></td>
-                </tr>
-                <tr>
                   <td>18 Giugno</td>
                   <td><a href="https://www.sportfuldolomitirace.it/" target="_blank">G.F. Sportful Dolomiti</a></td>
                 </tr>
@@ -117,6 +113,10 @@ menu-position: 2
                 <tr>
                   <td>9 Luglio</td>
                   <td><a href="https://www.oetztaler-radmarathon.com/it/home.html" target="_blank">Ötztaler Marathon</a></td>
+                </tr>
+                <tr>
+                  <td>16 Luglio</td>
+                  <td><a href="https://www.granfondodeisibillini.it/" target="_blank">G.F. Sibillini</a></td>
                 </tr>
                 <tr>
                   <td>24 Settembre</td>
