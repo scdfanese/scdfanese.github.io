@@ -9,7 +9,14 @@ menu-position: 2
   <section id="calendario">
     <div class="inner">
       <header class="major">
-        <h1>Calendario 2023</h1>
+        <h1>
+          Calendario 2023
+          <a
+            href="https://calendar.google.com/calendar/u/0?cid=MDBmZWJiZDI2ZmMyNzE1YTFlMjg2MTE5MDVmMDhhYzNmMGEyNGZkMjkwMjc0NDJkMGY2NzlkYjlmOTNmOGRhOUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t"
+            class="icon fa-calendar-plus"
+            title="Google Calendar">
+          </a>
+        </h1>
         <h5>Clicca sugli eventi per i dettagli</h5>
       </header>
       <div class="row">
