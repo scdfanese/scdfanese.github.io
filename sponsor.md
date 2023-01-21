@@ -6,7 +6,7 @@ menu-position: 3
 ---
 
 <div id="main" class="alt">
-  <section id="one">
+  <section id="sponsor">
     <div class="inner">
       <header class="major">
         <h1>I Nostri Sponsor</h1>

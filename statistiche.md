@@ -6,7 +6,7 @@ menu-position: 4
 ---
 
 <div id="main" class="alt">
-  <section id="one">
+  <section id="statistiche">
     <div class="inner">
       <header class="major">
         <h1>Statistiche</h1>

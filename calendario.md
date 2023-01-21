@@ -6,10 +6,11 @@ menu-position: 2
 ---
 
 <div id="main" class="alt">
-  <section id="one">
+  <section id="calendario">
     <div class="inner">
       <header class="major">
         <h1>Calendario 2023</h1>
+        <h5>Clicca sugli eventi per i dettagli</h5>
       </header>
       <div class="row">
         <div class="6u 12u$(small)">

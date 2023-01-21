@@ -6,7 +6,7 @@ menu-position: 1
 ---
 
 <div id="main" class="alt">
-  <section id="one">
+  <section id="chi-siamo">
     <div class="inner">
       <header class="major">
         <h1>Chi Siamo</h1>
