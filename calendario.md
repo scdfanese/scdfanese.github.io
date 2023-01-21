@@ -17,6 +17,12 @@ menu-position: 2
             class="icon fa-calendar-plus"
             title="Google Calendar">
           </a>
+          <a
+            href="https://calendar.google.com/calendar/ical/00febbd26fc2715a1e28611905f08ac3f0a24fd29027442d0f679db9f93f8da9%40group.calendar.google.com/public/basic.ics"
+            target="_blank"
+            class="icon fa-circle-down"
+            title="Link iCalendar">
+          </a>
         </h1>
         <h5>Clicca sugli eventi per i dettagli</h5>
       </header>
