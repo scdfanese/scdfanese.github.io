@@ -303,5 +303,13 @@
     $('iframe[data-async-src]').each(function() {
       $(this).attr('src', $(this).data('async-src'));
     });
+
+    // Modal
+    $('a[data-modal]').on('click', function(_event) {
+      $(this).modal({
+        fadeDuration: 150
+      });
+      return false;
+    });
   });
 })(jQuery);

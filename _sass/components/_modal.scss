@@ -1,0 +1,17 @@
+.jquery-modal {
+  .modal {
+    background-color: _palette(bg-alt);
+
+    a[rel="modal:close"] {
+      font-size: 70%;
+    }
+
+    p {
+      margin: 1em 0;
+    }
+  }
+
+  .close-modal {
+    border: none;
+  }
+}
