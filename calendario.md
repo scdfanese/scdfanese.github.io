@@ -13,6 +13,7 @@ menu-position: 2
           Calendario 2023
           <a
             href="https://calendar.google.com/calendar/u/0?cid=MDBmZWJiZDI2ZmMyNzE1YTFlMjg2MTE5MDVmMDhhYzNmMGEyNGZkMjkwMjc0NDJkMGY2NzlkYjlmOTNmOGRhOUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t"
+            target="_blank"
             class="icon fa-calendar-plus"
             title="Google Calendar">
           </a>
