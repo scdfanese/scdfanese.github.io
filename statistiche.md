@@ -2,7 +2,7 @@
 layout: page
 title: Statistiche
 image: assets/images/pic01.jpg
-menu-position: 4
+menu-position: 5
 ---
 
 <div id="main" class="alt">
