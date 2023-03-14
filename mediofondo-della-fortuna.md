@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Mediofondo della Fortuna
-image: assets/images/pic01.jpg
 menu-position: 4
 ---
 

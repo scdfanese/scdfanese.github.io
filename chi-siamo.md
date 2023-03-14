@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Chi Siamo
-image: assets/images/pic01.jpg
 menu-position: 1
 ---
 

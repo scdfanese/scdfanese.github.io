@@ -1,7 +1,6 @@
 ---
 layout: page
 title: I Nostri Sponsor
-image: assets/images/pic01.jpg
 menu-position: 3
 ---
 

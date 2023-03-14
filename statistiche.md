@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Statistiche
-image: assets/images/pic01.jpg
 menu-position: 5
 ---
 
