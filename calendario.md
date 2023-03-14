@@ -33,7 +33,7 @@ menu-position: 2
               <tbody>
                 <tr>
                   <td>16 Aprile</td>
-                  <td><a href="#cal0416" data-modal>14° Mediofondo della Fortuna</a></td>
+                  <td><a href="/mediofondo-della-fortuna">14° Mediofondo della Fortuna</a></td>
                 </tr>
                 <tr>
                   <td>4 Giugno</td>
@@ -141,12 +141,6 @@ menu-position: 2
   </section>
 </div>
 
-<div id="cal0416" class="modal">
-  <p>
-    La Nostra MF è giunta alla 14° edizione!!<br>
-    Felici e soddisfatti del grande successo e partecipazione all’evento, anche quest’anno solcheremo le nostre magnifiche colline marchigiane. Un panorama mozzafiato accompagnerà numerosissimi ciclisti provenienti anche da altre province del territorio!
-  </p>
-</div>
 <div id="cal0604" class="modal">
   <p>
     Stiamo lavorando per una location speciale, unica ed originale.
