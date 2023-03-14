@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Mediofondo della Fortuna
-menu-position: 4
+menu-position: 3
 ---
 
 <div id="main" class="alt">
