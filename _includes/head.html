@@ -2,6 +2,10 @@
   <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+  {% if page.description %}
+  <meta name="description" content="{{ page.description }}">
+  {% endif %}
+  {% if page.noindex %}<meta name="robots" content="noindex">{% endif %}
   <!--[if lte IE 8]><script src="{{ "assets/js/ie/html5shiv.js" | relative_url }}"></script><![endif]-->
   <link rel="stylesheet" href="{{ "assets/css/main.css" | relative_url }}" />
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.min.css" />

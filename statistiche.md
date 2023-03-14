@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Statistiche
+description: Alcune Statistiche della Società Ciclistica Dilettantistica Fanese.
 menu-position: 5
 ---
 

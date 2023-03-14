@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Chi Siamo
+description: Storia e informazioni della Società Ciclistica Dilettantistica Fanese.
 menu-position: 1
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: I Nostri Sponsor
+description: Gli Sponsor della Società Ciclistica Dilettantistica Fanese.
 menu-position: 4
 ---
 

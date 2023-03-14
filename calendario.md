@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Calendario 2023
+description: Il Calendario 2023 della Società Ciclistica Dilettantistica Fanese. Appuntamenti sociali e partecipazioni agonistiche.
 menu-position: 2
 ---
 
