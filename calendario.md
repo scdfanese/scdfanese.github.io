@@ -33,7 +33,7 @@ menu-position: 2
             <table class="alt">
               <tbody>
                 <tr>
-                  <td>16 Aprile</td>
+                  <td>23 Aprile</td>
                   <td><a href="/mediofondo-della-fortuna">14° Mediofondo della Fortuna</a></td>
                 </tr>
                 <tr>
