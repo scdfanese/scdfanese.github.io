@@ -98,10 +98,6 @@ menu-position: 2
                   <td><a href="https://www.granfondosquali.it/" target="_blank">G.F. Squali Trek</a></td>
                 </tr>
                 <tr>
-                  <td>21 Maggio</td>
-                  <td><a href="https://www.novecolli.it/" target="_blank">G.F. Nove Colli</a></td>
-                </tr>
-                <tr>
                   <td>3 Giugno</td>
                   <td><a href="https://www.facebook.com/profile.php?id=100075917361917" target="_blank">Randonnée del Catria</a></td>
                 </tr>
@@ -124,6 +120,10 @@ menu-position: 2
                 <tr>
                   <td>16 Luglio</td>
                   <td><a href="https://www.granfondodeisibillini.it/" target="_blank">G.F. Sibillini</a></td>
+                </tr>
+                <tr>
+                  <td>24 Settembre</td>
+                  <td><a href="https://www.novecolli.it/" target="_blank">G.F. Nove Colli</a></td>
                 </tr>
                 <tr>
                   <td>24 Settembre</td>
