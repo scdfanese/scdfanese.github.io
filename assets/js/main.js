@@ -311,5 +311,19 @@
       });
       return false;
     });
+
+    // Calendar past dates
+    const today = new Date();
+    const year = today.getFullYear().toString();
+    const month = (today.getMonth() + 1).toString().padStart(2, '0');
+    const day = today.getDate().toString().padStart(2, '0');
+    const todayTimestamp = parseInt(year + month + day);
+
+    $('tr[data-date]').each(function() {
+      const eventTimestamp = $(this).data('date');
+      if (eventTimestamp < todayTimestamp) {
+        $(this).css({ 'opacity': 0.5 });
+      }
+    });
   });
 })(jQuery);

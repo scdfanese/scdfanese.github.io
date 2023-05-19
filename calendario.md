@@ -32,39 +32,39 @@ menu-position: 2
           <div class="table-wrapper">
             <table class="alt">
               <tbody>
-                <tr>
+                <tr data-date="20230423">
                   <td>23 Aprile</td>
                   <td><a href="/mediofondo-della-fortuna">14° Mediofondo della Fortuna</a></td>
                 </tr>
-                <tr>
+                <tr data-date="20230604">
                   <td>4 Giugno</td>
                   <td><a href="#cal0604" data-modal>Foto sociale</a></td>
                 </tr>
-                <tr>
+                <tr data-date="20230702">
                   <td>2 Luglio</td>
                   <td><a href="#cal0702" data-modal>Castelluccio di Norcia</a></td>
                 </tr>
-                <tr>
+                <tr data-date="20230723">
                   <td>20-23 Luglio</td>
                   <td><a href="#cal0720" data-modal>Passo dello Stelvio</a></td>
                 </tr>
-                <tr>
+                <tr data-date="20230730">
                   <td>30 Luglio</td>
                   <td><a href="#cal0730" data-modal>Monte Fumaiolo</a></td>
                 </tr>
-                <tr>
+                <tr data-date="20230813">
                   <td>12-13 Agosto</td>
                   <td><a href="#cal0812" data-modal>Roma</a></td>
                 </tr>
-                <tr>
+                <tr data-date="20231008">
                   <td>8 Ottobre</td>
                   <td><a href="#cal1008" data-modal>Crono sociale</a></td>
                 </tr>
-                <tr>
+                <tr data-date="20231123">
                   <td>23 Novembre</td>
                   <td><a href="#cal1123" data-modal>Assemblea sociale</a></td>
                 </tr>
-                <tr>
+                <tr data-date="20231201">
                   <td>1 Dicembre</td>
                   <td><a href="#cal1201" data-modal>Cena sociale di Natale</a></td>
                 </tr>
@@ -77,59 +77,59 @@ menu-position: 2
           <div class="table-wrapper">
             <table class="alt">
               <tbody>
-                <tr>
+                <tr data-date="20230305">
                   <td>5 Marzo</td>
                   <td><a href="https://gfstradebianche.it/" target="_blank">G.F. Strade Bianche</a></td>
                 </tr>
-                <tr>
+                <tr data-date="20230319">
                   <td>19 Marzo</td>
                   <td><a href="http://www.fondoleopardiana.com/" target="_blank">G.F. Leopardiana</a></td>
                 </tr>
-                <tr>
+                <tr data-date="20230402">
                   <td>2 Aprile</td>
                   <td><a href="https://www.granfondoviadelsale.com/" target="_blank">G.F. Via del Sale</a></td>
                 </tr>
-                <tr>
+                <tr data-date="20230423">
                   <td>23 Aprile</td>
                   <td><a href="https://www.granfondosanbenedettodeltronto.it/" target="_blank">G.F. San Benedetto</a></td>
                 </tr>
-                <tr>
+                <tr data-date="20230514">
                   <td>14 Maggio</td>
                   <td><a href="https://www.granfondosquali.it/" target="_blank">G.F. Squali Trek</a></td>
                 </tr>
-                <tr>
+                <tr data-date="20230603">
                   <td>3 Giugno</td>
                   <td><a href="https://www.facebook.com/profile.php?id=100075917361917" target="_blank">Randonnée del Catria</a></td>
                 </tr>
-                <tr>
+                <tr data-date="20230618">
                   <td>18 Giugno</td>
                   <td><a href="https://www.sportfuldolomitirace.it/" target="_blank">G.F. Sportful Dolomiti</a></td>
                 </tr>
-                <tr>
+                <tr data-date="20230625">
                   <td>25 Giugno</td>
                   <td><a href="https://cicloducaleurbino.it/la-straducale/" target="_blank">G.F. Straducale</a></td>
                 </tr>
-                <tr>
+                <tr data-date="20230702">
                   <td>2 Luglio</td>
                   <td><a href="https://www.maratona.it/it/" target="_blank">Maratona dles Dolomites</a></td>
                 </tr>
-                <tr>
+                <tr data-date="20230709">
                   <td>9 Luglio</td>
                   <td><a href="https://www.oetztaler-radmarathon.com/it/home.html" target="_blank">Ötztaler Marathon</a></td>
                 </tr>
-                <tr>
+                <tr data-date="20230716">
                   <td>16 Luglio</td>
                   <td><a href="https://www.granfondodeisibillini.it/" target="_blank">G.F. Sibillini</a></td>
                 </tr>
-                <tr>
+                <tr data-date="20230924">
                   <td>24 Settembre</td>
                   <td><a href="https://www.novecolli.it/" target="_blank">G.F. Nove Colli</a></td>
                 </tr>
-                <tr>
+                <tr data-date="20230924">
                   <td>24 Settembre</td>
                   <td><a href="https://www.5milamarche.com/" target="_blank">G.F. 5000 Marche</a></td>
                 </tr>
-                <tr>
+                <tr data-date="20231008">
                   <td>8 Ottobre</td>
                   <td><a href="https://www.michelescarponi.it/granfondo/" target="_blank">C.I.C Michele Scarponi</a></td>
                 </tr>
