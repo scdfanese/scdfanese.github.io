@@ -121,13 +121,13 @@ menu-position: 2
                   <td>16 Luglio</td>
                   <td><a href="https://www.granfondodeisibillini.it/" target="_blank">G.F. Sibillini</a></td>
                 </tr>
-                <tr data-date="20230924">
-                  <td>24 Settembre</td>
-                  <td><a href="https://www.novecolli.it/" target="_blank">G.F. Nove Colli</a></td>
+                <tr data-date="20230910">
+                  <td>10 Settembre</td>
+                  <td><a href="https://www.5milamarche.com/" target="_blank">G.F. 5000 Marche</a></td>
                 </tr>
                 <tr data-date="20230924">
                   <td>24 Settembre</td>
-                  <td><a href="https://www.5milamarche.com/" target="_blank">G.F. 5000 Marche</a></td>
+                  <td><a href="https://www.novecolli.it/" target="_blank">G.F. Nove Colli</a></td>
                 </tr>
                 <tr data-date="20231008">
                   <td>8 Ottobre</td>
