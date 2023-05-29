@@ -105,9 +105,9 @@ menu-position: 2
                   <td>18 Giugno</td>
                   <td><a href="https://www.sportfuldolomitirace.it/" target="_blank">G.F. Sportful Dolomiti</a></td>
                 </tr>
-                <tr data-date="20230625">
-                  <td>25 Giugno</td>
-                  <td><a href="https://cicloducaleurbino.it/la-straducale/" target="_blank">G.F. Straducale</a></td>
+                <tr data-date="0">
+                  <td><s>25 Giugno</s></td>
+                  <td><s><a href="https://cicloducaleurbino.it/la-straducale/" target="_blank">G.F. Straducale</a></s></td>
                 </tr>
                 <tr data-date="20230702">
                   <td>2 Luglio</td>
