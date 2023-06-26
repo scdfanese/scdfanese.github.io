@@ -8,13 +8,12 @@
 
   #banner {
     @include vendor('align-items', 'center');
-    @include vendor('background-image', 'url("../images/banner-sociale-2022-gray.jpg")');
+    @include vendor('background-image', 'url("../images/banner-sociale-2023-gray.jpg")');
     @include vendor('display', 'flex');
     @include padding(4em, 0, (2em, 0, 0, 0));
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
-    background-size: cover;
     border-bottom: 0 !important;
     cursor: default;
     height: 60vh;
