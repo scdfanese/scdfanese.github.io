@@ -12,13 +12,15 @@ menu-position: 1
         <h1>Chi Siamo</h1>
       </header>
       <p>
-        L’Associazione sportiva <strong>Società Ciclistica Dilettantistica Fanese</strong> è stata fondata nel lontano 1979 per iniziativa di Lorenzo Volpini, che ne è stato il Presidente fino al 2010. Oggi è una società che conta circa 80 tesserati residenti a Fano e nei Comuni limitrofi.<br>
+        L’Associazione sportiva <strong>Società Ciclistica Dilettantistica Fanese</strong> è stata fondata nel lontano 1979 per iniziativa di Lorenzo Volpini, che ne è stato il Presidente fino al 2010. Oggi è una società che conta circa 70 tesserati residenti a Fano e nei Comuni limitrofi.<br>
         Fin dagli esordi è stata affiliata <a href="https://www.federciclismo.it/it/" target="_blank">FCI</a> e dal 2008 è anche affiliata <a href="https://www.acsi.it/" target="_blank">ACSI</a>.<br>
         L'attività, inizialmente legata quasi esclusivamente alla promozione del Settore Giovanile, dal 2008 è stata indirizzata anche allo sviluppo e alla promozione socio-aggregativa del ciclismo in età adulta.<br>
         L’impegno come atleti porta i soci a partecipare ogni anno a numerose manifestazioni sportive in ambito regionale, nazionale e, in alcuni casi, anche internazionale, con una nutrita rappresentanza.
       </p>
       <p>
-        <img src="{% link assets/images/banner-sociale-2022.jpg %}" alt="Foto sociale 2022 SCD Fanese" />
+        <a href="{% link assets/images/foto-sociale-2023-full.jpg %}">
+          <img src="{% link assets/images/foto-sociale-2023.jpg %}" alt="Foto sociale 2023 della SCD Fanese" />
+        </a>
       </p>
       <div class="row">
         <div class="6u 12u$(small)">
