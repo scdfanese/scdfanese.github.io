@@ -26,6 +26,11 @@ menu-position: 4
           <h4>Cingolani Bike Shop</h4>
         </div>
       </a>
+      <a href="https://www.fano.bcc.it/" target="_blank">
+        <div class="box">
+          <h4>BCC Fano</h4>
+        </div>
+      </a>
       <a href="https://www.peccatidigolafano.it/" target="_blank">
         <div class="box">
           <h4>Peccati di Gola</h4>
