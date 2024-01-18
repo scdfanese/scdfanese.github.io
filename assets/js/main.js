@@ -35,6 +35,13 @@
       }, 250);
     });
 
+    // Formspree
+    window.onbeforeunload = () => {
+      for(const form of document.getElementsByTagName('form')) {
+        form.reset();
+      }
+    }
+
     // Fix: Enable IE-only tweaks.
     if (skel.vars.browser == "ie" || skel.vars.browser == "edge")
       $body.addClass("is-ie");
