@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Calendario 2024
-description: Il Calendario della SCD Fanese. Appuntamenti sociali e partecipazioni agonistiche.
+title: Calendario 2025
+description: Il Calendario della SCD Fanese. Appuntamenti sociali e agonistici.
 menu-position: 2
 ---
 
@@ -10,7 +10,7 @@ menu-position: 2
     <div class="inner">
       <header class="major">
         <h1>
-          Calendario 2024
+          Calendario 2025
           <a
             href="https://calendar.google.com/calendar/u/0?cid=MDBmZWJiZDI2ZmMyNzE1YTFlMjg2MTE5MDVmMDhhYzNmMGEyNGZkMjkwMjc0NDJkMGY2NzlkYjlmOTNmOGRhOUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t"
             target="_blank"
@@ -32,7 +32,7 @@ menu-position: 2
           <div class="table-wrapper">
             <table class="alt">
               <tbody>
-                <tr data-date="20240423">
+                <tr data-date="20250423">
                   <td>23 Aprile</td>
                   <td><a href="/mediofondo-della-fortuna">14° Mediofondo della Fortuna</a></td>
                 </tr>
@@ -45,103 +45,105 @@ menu-position: 2
         <div class="12u">
           <h2>Eventi</h2>
         </div>
-        <div class="6u 12u$(small)">
+        <div class="8u 12u$(small)">
           <div class="table-wrapper">
-            <h3>Strada</h3>
+            <!-- <h3>Strada</h3> -->
             <table class="alt">
               <tbody>
-                <tr data-date="20240303">
-                  <td>3 Marzo</td>
+                <tr data-date="20250309">
+                  <td>9 Marzo</td>
+                  <td>Siena</td>
                   <td><a href="https://gfstradebianche.it/" target="_blank">G.F. Strade Bianche</a></td>
                 </tr>
-                <tr data-date="20240317">
-                  <td>17 Marzo</td>
-                  <td><a href="https://www.granfondodelpo.it/home/" target="_blank">G.F. del Po</a></td>
+                <tr data-date="20250316">
+                  <td>16 Marzo</td>
+                  <td>Pescara</td>
+                  <td><a href="https://www.fondotratturomagno.it/" target="_blank">G.F. Tratturo Magno</a> <small>(Circuito G.F. Marche)</small></td>
                 </tr>
-                <tr data-date="20240407">
-                  <td>7 Aprile</td>
+                <tr data-date="20250323">
+                  <td>23 Marzo</td>
+                  <td>Riccione</td>
+                  <td><a href="https://www.granfondoriccione.com/" target="_blank">G.F. Riccione</a></td>
+                </tr>
+                <tr data-date="20250330">
+                  <td>30 Marzo</td>
+                  <td>San Benedetto</td>
+                  <td><a href="https://www.granfondosanbenedettodeltronto.it/" target="_blank">G.F. San Benedetto</a> <small>(Circuito G.F. Marche)</small></td>
+                </tr>
+                <tr data-date="20250406">
+                  <td>6 Aprile</td>
+                  <td>Cervia</td>
                   <td><a href="https://www.granfondoviadelsale.com/" target="_blank">G.F. Via del Sale</a></td>
                 </tr>
-                <tr data-date="20240414">
-                  <td>14 Aprile</td>
-                  <td><a href="http://www.fondoleopardiana.com/" target="_blank">G.F. Leopardiana</a></td>
+                <tr data-date="20250413">
+                  <td>13 Aprile</td>
+                  <td>Filottrano</td>
+                  <td><a href="https://www.michelescarponi.it/granfondo/" target="_blank">G.F. Michele Scarponi</a> <small>(Circuito G.F. Marche)</small></td>
                 </tr>
-                <tr data-date="20240421">
-                  <td>21 Aprile</td>
-                  <td><a href="https://www.granfondosanbenedettodeltronto.it/" target="_blank">G.F. San Benedetto</a></td>
+                <tr data-date="20250511">
+                  <td>11 Maggio</td>
+                  <td>Cattolica</td>
+                  <td><a href="https://www.granfondosquali.it/" target="_blank">G.F. Squali Trek</a> <small>(Circuito G.F. Marche)</small></td>
                 </tr>
-                <tr data-date="20240505">
-                  <td>5 Maggio</td>
-                  <td><a href="https://www.michelescarponi.it/granfondo/" target="_blank">G.F. Michele Scarponi</a></td>
-                </tr>
-                <tr data-date="20240512">
-                  <td>12 Maggio</td>
-                  <td><a href="https://www.granfondosquali.it/" target="_blank">G.F. Squali Trek</a></td>
-                </tr>
-                <tr data-date="20240519">
-                  <td>19 Maggio</td>
+                <tr data-date="20250518">
+                  <td>18 Maggio</td>
+                  <td>Cesenatico</td>
                   <td><a href="https://www.novecolli.it/" target="_blank">G.F. Nove Colli</a></td>
                 </tr>
-                <tr data-date="20240601">
+               <tr data-date="20250601">
                   <td>1 Giugno</td>
+                  <td>Recanati</td>
+                  <td><a href="http://www.fondoleopardiana.com/" target="_blank">G.F. Leopardiana</a> <small>(Circuito G.F. Marche)</small></td>
+                </tr>
+                <tr data-date="20250601">
+                  <td>1 Giugno</td>
+                  <td>Cantiano</td>
                   <td><a href="https://www.facebook.com/profile.php?id=100075917361917" target="_blank">Randonnée del Catria</a></td>
                 </tr>
-                <tr data-date="20240616">
-                  <td>16 Giugno</td>
+                <tr data-date="20250608">
+                  <td>8 Giugno</td>
+                  <td>Caldarola</td>
+                  <td><a href="https://www.granfondodeisibillini.it/" target="_blank">G.F. Sibillini</a> <small>(Circuito G.F. Marche)</small></td>
+                </tr>
+                <tr data-date="20250615">
+                  <td>15 Giugno</td>
+                  <td>Feltre</td>
                   <td><a href="https://www.sportfuldolomitirace.it/" target="_blank">G.F. Sportful Dolomiti</a></td>
                 </tr>
-                <tr data-date="20240707">
-                  <td>7 Luglio</td>
-                  <td><a href="https://www.maratona.it/it/" target="_blank">Maratona dles Dolomites</a></td>
+                <tr data-date="20250622">
+                  <td>22 Giugno</td>
+                  <td>Camerino</td>
+                  <td><a href="https://www.terredeivarano.it/" target="_blank">G.F. Terre dei Varano</a></td>
                 </tr>
-                <tr data-date="20240714">
-                  <td>14 Luglio</td>
-                  <td><a href="https://www.granfondodeisibillini.it/" target="_blank">G.F. Sibillini</a></td>
-                </tr>
-                <tr data-date="20240901">
-                  <td>1 Settembre</td>
+                <tr data-date="20250831">
+                  <td>31 Agosto</td>
+                  <td>Austria</td>
                   <td><a href="https://www.oetztaler-radmarathon.com/it/home.html" target="_blank">Ötztaler Marathon</a></td>
                 </tr>
-                <tr data-date="20240915">
-                  <td>15 Settembre ?</td>
+               <tr data-date="20250914">
+                  <td>14 Settembre</td>
+                  <td>Monsano</td>
+                  <td><a href="https://www.endu.net/en/events/cronometro-monsano/" target="_blank">Cronometro</a> <small>(Circuito G.F. Marche)</small></td>
+                </tr>
+                <tr data-date="20250915">
+                  <td>15 Settembre</td>
+                  <td>Misano</td>
                   <td><a href="https://giallacycling.com/gara/granfondo-strada/" target="_blank">G.F. La Gialla</a></td>
                 </tr>
-                <tr data-date="20240922">
-                  <td>22 Settembre</td>
-                  <td><a href="https://www.5milamarche.com/" target="_blank">5MILA Marche</a></td>
+                <tr data-date="20250920">
+                  <td>20 Settembre</td>
+                  <td>Porto Recanati</td>
+                  <td><a href="https://www.5milamarche.com/" target="_blank">Randonnée 5Mila Extreme</a></td>
                 </tr>
-                <tr data-date="20241006">
-                  <td>6 Ottobre</td>
-                  <td><a href="https://granfondotrevallivaresine.it/" target="_blank">G.F. Tre Valli Varesine</a></td>
+                <tr data-date="20250921">
+                  <td>21 Settembre</td>
+                  <td>Porto Recanati</td>
+                  <td><a href="https://www.5milamarche.com/" target="_blank">G.F. 5Mila Marche</a></td>
                 </tr>
-              </tbody>
-            </table>
-          </div>
-        </div>
-        <div class="6u$ 12u$(small)">
-          <div class="table-wrapper">
-            <h3>Gravel</h3>
-            <table class="alt">
-              <tbody>
-                <tr data-date="20240323">
-                  <td>23 Marzo</td>
-                  <td><a href="https://www.arezzogravel.com/" target="_blank">Arezzo Gravel</a></td>
-                </tr>
-                <tr data-date="20240407">
-                  <td>5-6-7 Aprile</td>
-                  <td><a href="https://www.adriaticgreentrail.it/" target="_blank">Adriatic Green Trail</a></td>
-                </tr>
-                <tr data-date="20240511">
-                  <td>11 Maggio</td>
-                  <td><a href="https://www.granfondosquali.it/squali-gravel/" target="_blank">Squali Gravel</a></td>
-                </tr>
-                <tr data-date="20240609">
-                  <td>9 Giugno</td>
-                  <td><a href="https://www.laspoletonorciagravel.it/" target="_blank">Spoleto Norcia Gravel</a></td>
-                </tr>
-                <tr data-date="20240616">
-                  <td>15-16 Giugno</td>
-                  <td><a href="https://cicloducaleurbino.it/la-raffaello-gravel/" target="_blank">Raffaello Gravel</a></td>
+                <tr data-date="20251012">
+                  <td>12 Ottobre</td>
+                  <td>Gubbio</td>
+                  <td><a href="https://granfondogubbio.it/" target="_blank">G.F. del Montefeltro</a> <small>(Circuito G.F. Marche)</small></td>
                 </tr>
               </tbody>
             </table>
@@ -152,11 +154,7 @@ menu-position: 2
   </section>
 </div>
 
-<div id="cal0604" class="modal">
+<!-- <div id="cal0604" class="modal">
   <p>
-    Stiamo lavorando per una location speciale, unica ed originale.
-    Vogliamo scattare un ricordo unico!<br>
-    La foto sociale è uno dei tanti momenti di aggregazione e visibilità per i nostri sponsor che da anni ci supportano!!
-    Vi chiediamo solo di essere numerosi e non mancare!
   </p>
-</div>
+</div> -->
