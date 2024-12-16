@@ -42,15 +42,12 @@ menu-position: 1
             <dd>Hamos Berluti</dd>
 
             <dt>Consiglieri</dt>
-            <dd>Valter Iacomucci</dd>
-            <dd>Paolo Tavoleti</dd>
-            <dd>Loris Riberti</dd>
-            <dd>Hamos Berluti</dd>
             <dd>Sara Sperandini</dd>
             <dd>Francesco Piersanti</dd>
-            <dd>Massimo Riberti</dd>
             <dd>Nicola Bellucci</dd>
             <dd>Giuseppe Aiudi</dd>
+            <dd>Alberto Ioni</dd>
+            <dd>Alessandro Lepore</dd>
           </dl>
         </div>
         <div class="6u 12u$(small)">
