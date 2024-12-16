@@ -2,7 +2,6 @@
 layout: page
 title: Mediofondo della Fortuna
 description: La Mediofondo della Fortuna 2023 organizzata dalla SCD Fanese.
-menu-position: false
 ---
 
 <div id="main" class="alt">
