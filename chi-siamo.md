@@ -19,8 +19,8 @@ menu-position: 1
         L’impegno come atleti porta i soci a partecipare ogni anno a numerose manifestazioni sportive in ambito regionale, nazionale e, in alcuni casi, anche internazionale, con una nutrita rappresentanza.
       </p>
       <p>
-        <a href="{% link assets/images/foto-sociale-2023-full.jpg %}">
-          <img src="{% link assets/images/foto-sociale-2023.jpg %}" alt="Foto sociale 2023 della SCD Fanese" />
+        <a href="{% link assets/images/foto-sociale-2024-full.jpg %}">
+          <img src="{% link assets/images/foto-sociale-2024.jpg %}" alt="Foto sociale 2024 della SCD Fanese" />
         </a>
       </p>
       <div class="row">
