@@ -29,25 +29,21 @@ menu-position: 1
             Organigramma della società
           </h3>
           <dl class="two-columns">
-            <dt>Presidente Onorario</dt>
-            <dd>Lorenzo Volpini</dd>
-
             <dt>Presidente</dt>
             <dd>Valter Iacomucci</dd>
-
             <dt>Vice presidente</dt>
-            <dd>Paolo Tavoleti</dd>
-
+            <dd>Nicola Bellucci</dd>
             <dt>Segretario</dt>
-            <dd>Hamos Berluti</dd>
-
+            <dd>Giuseppe Aiudi</dd>
             <dt>Consiglieri</dt>
             <dd>Sara Sperandini</dd>
             <dd>Francesco Piersanti</dd>
-            <dd>Nicola Bellucci</dd>
-            <dd>Giuseppe Aiudi</dd>
+            <dd>Paolo Tavoleti</dd>
+            <dd>Hamos Berluti</dd>
             <dd>Alberto Ioni</dd>
             <dd>Alessandro Lepore</dd>
+            <dt>Presidente Onorario</dt>
+            <dd>Lorenzo Volpini</dd>
           </dl>
         </div>
         <div class="6u 12u$(small)">
