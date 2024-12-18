@@ -47,7 +47,7 @@ menu-position: 2
         </div>
         <div class="8u 12u$(small)">
           <div class="table-wrapper">
-            <!-- <h3>Strada</h3> -->
+            <h3>Strada</h3>
             <table class="alt">
               <tbody>
                 <tr data-date="20250309">
@@ -144,6 +144,50 @@ menu-position: 2
                   <td>12 Ottobre</td>
                   <td>Gubbio</td>
                   <td><a href="https://granfondogubbio.it/" target="_blank">G.F. del Montefeltro</a> <small>(Circuito G.F. Marche)</small></td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+        <div class="8u 12u$(small)">
+          <div class="table-wrapper">
+            <h3>Gravel</h3>
+            <table class="alt">
+              <tbody>
+                <tr data-date="20250322">
+                  <td>22 Marzo</td>
+                  <td>Siena</td>
+                  <td><a href="https://www.arezzogravel.com/" target="_blank">Arezzo Gravel</a></td>
+                </tr>
+                <tr data-date="20250404">
+                  <td>4/5/6 Aprile</td>
+                  <td>Fano</td>
+                  <td><a href="https://www.adriaticgreentrail.it/" target="_blank">Adriatica Green Trail</a></td>
+                </tr>
+                <tr data-date="20250322">
+                  <td>11 Maggio</td>
+                  <td>Cattolica</td>
+                  <td><a href="https://www.granfondosquali.it/squali-gravel/" target="_blank">Squali Gravel</a></td>
+                </tr>
+                <tr data-date="20250601">
+                  <td>1 Giugno</td>
+                  <td>Foligno</td>
+                  <td><a href="https://www.colfioritogravel.com/" target="_blank">Colfiorito Gravel</a></td>
+                </tr>
+                <tr data-date="20250622">
+                  <td>22 Giugno</td>
+                  <td>Buonconvento</td>
+                  <td><a href="https://eroica.cc/it/nova-eroica" target="_blank">Nova Eroica</a></td>
+                </tr>
+                <tr data-date="20251231">
+                  <td><small>Data Libera</small></td>
+                  <td>Gaiole in Chianti</td>
+                  <td><a href="https://it.wikiloc.com/percorsi-gravel-bike/leroica-78-km-29622618" target="_blank">Sulle tracce dell'Eroica</a></td>
+                </tr>
+                <tr data-date="20251231">
+                  <td><small>Data Libera</small></td>
+                  <td>Valli di Comacchio</td>
+                  <td><a href="https://scaramellogravel.cc/" target="_blank">Scaramello Gravel</a></td>
                 </tr>
               </tbody>
             </table>
