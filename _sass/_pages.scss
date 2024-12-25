@@ -9,3 +9,16 @@
     margin: -12px 0 0;
   }
 }
+
+.pdf-embed {
+  width: 50%;
+  height: 500px;
+
+  @include breakpoint(medium) {
+    width: 100%;
+  }
+
+  @include breakpoint(xsmall) {
+    height: 300px;
+  }
+}
