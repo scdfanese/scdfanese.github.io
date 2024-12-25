@@ -11,16 +11,17 @@ menu-position: 2
       <header class="major">
         <h1>
           Calendario 2025
+          &nbsp;
           <a
             href="https://calendar.google.com/calendar/u/0?cid=MDBmZWJiZDI2ZmMyNzE1YTFlMjg2MTE5MDVmMDhhYzNmMGEyNGZkMjkwMjc0NDJkMGY2NzlkYjlmOTNmOGRhOUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t"
             target="_blank"
-            class="icon fa-calendar-plus"
+            class="fa-regular fa-calendar-plus"
             title="Google Calendar">
           </a>
           <a
             href="https://calendar.google.com/calendar/ical/00febbd26fc2715a1e28611905f08ac3f0a24fd29027442d0f679db9f93f8da9%40group.calendar.google.com/public/basic.ics"
             target="_blank"
-            class="icon fa-circle-down"
+            class="fa-regular fa-circle-down"
             title="Link iCalendar">
           </a>
         </h1>

@@ -1,7 +1,7 @@
 <section id="contact">
   <div class="inner">
     <section>
-      <h2>Contattaci!</h2>
+      <h2><i class="fa-solid fa-message"></i> Contattaci!</h2>
       <form action="https://formspree.io/f/xeqddbyk" method="POST">
         <input type="hidden" name="_language" value="it" />
         <input type="hidden" name="subject" value="Contatto dal sito" />
@@ -25,15 +25,13 @@
     <section class="split">
       <section>
         <div class="contact-method">
-          <span class="icon alt fa-envelope"></span>
-          <h3>Email</h3>
+          <h3><i class="fa-solid fa-envelope"></i> Email</h3>
           <a href="mailto:{{ site.email }}">{{ site.email }}</a>
         </div>
       </section>
       <section>
         <div class="contact-method">
-          <span class="icon alt fa-home"></span>
-          <h3>Dove siamo</h3>
+          <h3><i class="fa-solid fa-home"></i> Dove siamo</h3>
           <a href="https://goo.gl/maps/E6Z1BFi2HTECuYQ28" target="_blank">
             {% if site.street_address %}
                 {{ site.street_address }}<br />
@@ -60,7 +58,7 @@
         {% for key_value in site.socials %}
           {% if key_value[1] %}
             <li>
-              <a href="{{ key_value[1] }}" class="icon alt fa-{{ key_value[0] | downcase }}" target="_blank" rel="noopener noreferrer" aria-label="{{ key_value[0] }}">
+              <a href="{{ key_value[1] }}" class="fa-brands fa-{{ key_value[0] | downcase }}" target="_blank" rel="noopener noreferrer" aria-label="{{ key_value[0] }}">
                 <span class="label">{{ key_value[0] }}</span>
               </a>
             </li>
