@@ -14,10 +14,15 @@ menu-position: 4
       <h3>
         <a href="{% link assets/files/Modello Organizzativo e di Controllo.pdf %}" target="_blank">
           Modello Organizzativo e di Controllo dell’attività Sportiva
-          <i class="fa-solid fa-download"></i>
+          &nbsp;<i class="fa-solid fa-download"></i>
         </a>
       </h3>
-      <!-- <embed class="pdf-embed" type="application/pdf" src="{% link assets/files/Modello Organizzativo e di Controllo.pdf %}" /> -->
+      <h3>
+        <a href="{% link assets/files/Verbale nomina safeguarding.pdf %}" target="_blank">
+          Verbale Nomina Responsabile
+          &nbsp;<i class="fa-solid fa-download"></i>
+        </a>
+      </h3>
     </div>
   </section>
 </div>
