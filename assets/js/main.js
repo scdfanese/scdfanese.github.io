@@ -21,20 +21,6 @@
       $header = $("#header"),
       $banner = $("#banner");
 
-    // Disable animations/transitions until the page has loaded.
-    $body.addClass("is-loading");
-
-    window.setTimeout(function () {
-      $body.removeClass("is-loading");
-    }, 200);
-
-    // Clear transitioning state on unload/hide.
-    $window.on("unload pagehide", function () {
-      window.setTimeout(function () {
-        $(".is-transitioning").removeClass("is-transitioning");
-      }, 250);
-    });
-
     // Formspree
     window.onbeforeunload = () => {
       for(const form of document.getElementsByTagName('form')) {
@@ -48,14 +34,6 @@
 
     // Fix: Placeholder polyfill.
     $("form").placeholder();
-
-    // Prioritize "important" elements on medium.
-    skel.on("+medium -medium", function () {
-      $.prioritize(
-        ".important\\28 medium\\29",
-        skel.breakpoint("medium").active
-      );
-    });
 
     // Scrolly.
     $(".scrolly").scrolly({
@@ -115,32 +93,6 @@
 
     // Header.
     if (skel.vars.IEVersion < 9) $header.removeClass("alt");
-
-    if ($banner.length > 0 && $header.hasClass("alt")) {
-      $window.on("resize", function () {
-        $window.trigger("scroll");
-      });
-
-      $window.on("load", function () {
-        $banner.scrollex({
-          bottom: 400,
-          terminate: function () {
-            $header.removeClass("alt");
-          },
-          enter: function () {
-            $header.addClass("alt");
-          },
-          leave: function () {
-            $header.removeClass("alt");
-            $header.addClass("reveal");
-          },
-        });
-
-        window.setTimeout(function () {
-          $window.triggerHandler("scroll");
-        }, 100);
-      });
-    }
 
     // Banner.
     $banner.each(function () {
