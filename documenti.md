@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Safeguarding
-description: Safeguarding
+title: Documenti
+description: Documenti
 menu-position: 4
 ---
 
@@ -9,7 +9,7 @@ menu-position: 4
   <section id="chi-siamo">
     <div class="inner">
       <header class="major">
-        <h1>Safeguarding</h1>
+        <h2>Safeguarding</h2>
       </header>
       <h3>
         <a href="{% link assets/files/Modello Organizzativo e di Controllo.pdf %}" target="_blank">
