@@ -48,7 +48,6 @@ menu-position: 2
         </div>
         <div class="8u 12u$(small)">
           <div class="table-wrapper">
-            <h3>Granfondo e Randonnée</h3>
             <table class="alt">
               <tbody>
                 <tr data-date="20260315">
@@ -107,7 +106,7 @@ menu-position: 2
         </div>
         <div class="8u 12u$(small)">
           <div class="table-wrapper">
-            <h3>Locali</h3>
+            <h3>Eventi Locali</h3>
             <table class="alt">
               <tbody>
                 <tr>
@@ -124,7 +123,7 @@ menu-position: 2
                 </tr>
                 <tr>
                   <td>Cannella</td>
-                  <td>Mediofondo Cannellese</td>
+                  <td>Mediofondo</td>
                 </tr>
                 <tr>
                   <td>Piobbico</td>

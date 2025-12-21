@@ -12,11 +12,11 @@ menu-position: 1
         <h1>Chi Siamo</h1>
       </header>
       <p>
-        L’Associazione sportiva <strong>Società Ciclistica Dilettantistica Fanese</strong> è stata fondata nel lontano 1979 da Lorenzo Volpini, che ne è stato il Presidente fino al 2010.<br>
+        L'Associazione sportiva <strong>Società Ciclistica Dilettantistica Fanese</strong> è stata fondata nel lontano 1979 da Lorenzo Volpini, che ne è stato il Presidente fino al 2010.<br>
         Fin dagli esordi è stata affiliata <a href="https://www.federciclismo.it/it/" target="_blank">FCI</a> e dal 2008 anche <a href="https://www.acsi.it/" target="_blank">ACSI</a>.<br>
         L'attività, inizialmente legata alla promozione del Settore Giovanile, dal 2008 è stata indirizzata allo sviluppo e alla promozione socio-aggregativa del ciclismo in età adulta.<br>
         Oggi è una società che conta più di 60 tesserati residenti a Fano e nei Comuni limitrofi.<br>
-        L’impegno come atleti porta i soci a partecipare ogni anno a numerose manifestazioni sportive in ambito regionale, nazionale e, in alcuni casi, anche internazionale, con una nutrita rappresentanza.
+        L'impegno come atleti porta i soci a partecipare ogni anno a numerose manifestazioni sportive in ambito regionale, nazionale e, in alcuni casi, anche internazionale, con una nutrita rappresentanza.
       </p>
       <p>
         <a href="{% link assets/images/foto-sociale-2025-full.jpg %}">
@@ -31,10 +31,13 @@ menu-position: 1
           <dl class="two-columns">
             <dt>Presidente</dt>
             <dd>Valter Iacomucci</dd>
+
             <dt>Vice presidente</dt>
             <dd>Nicola Bellucci</dd>
+
             <dt>Segretario</dt>
             <dd>Giuseppe Aiudi</dd>
+
             <dt>Consiglieri</dt>
             <dd>Paolo Tavoleti</dd>
             <dd>Hamos Berluti</dd>
@@ -45,7 +48,7 @@ menu-position: 1
           </dl>
         </div>
         <div class="6u 12u$(small)">
-          <h3>Divisa sociale</h3>
+          <h3>Divisa sociale 2023-2025</h3>
           <span class="image fit">
             <img src="{% link assets/images/divisa 2023.jpg %}" alt="Divisa SCD Fanese" />
           </span>
