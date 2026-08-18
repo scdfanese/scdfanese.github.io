@@ -19,8 +19,8 @@ menu-position: 1
         L'impegno come atleti porta i soci a partecipare ogni anno a numerose manifestazioni sportive in ambito regionale, nazionale e, in alcuni casi, anche internazionale, con una nutrita rappresentanza.
       </p>
       <p>
-        <a href="{% link assets/images/foto-sociale-2025-full.jpg %}">
-          <img src="{% link assets/images/foto-sociale-2025.jpg %}" alt="Foto sociale 2025 della SCD Fanese" />
+        <a href="{% link assets/images/foto-sociale-2026-full.jpg %}">
+          <img src="{% link assets/images/foto-sociale-2026.jpg %}" alt="Foto sociale 2026 della SCD Fanese" />
         </a>
       </p>
       <div class="row">
@@ -46,12 +46,6 @@ menu-position: 1
             <dd>Alessandro Lepore</dd>
             <dd>Francesco Francolini</dd>
           </dl>
-        </div>
-        <div class="6u 12u$(small)">
-          <h3>Divisa sociale 2023-2025</h3>
-          <span class="image fit">
-            <img src="{% link assets/images/divisa 2023.jpg %}" alt="Divisa SCD Fanese" />
-          </span>
         </div>
       </div>
     </div>
