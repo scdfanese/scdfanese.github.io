@@ -47,6 +47,12 @@ menu-position: 1
             <dd>Francesco Francolini</dd>
           </dl>
         </div>
+        <div class="6u 12u$(small)">
+          <h3>Divisa sociale 2026-2028</h3>
+          <span class="image fit">
+            <img src="{% link assets/images/divisa-2026.jpg %}" alt="Divisa SCD Fanese" />
+          </span>
+        </div>
       </div>
     </div>
   </section>
