@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="it">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>
+      {% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}
+    </title>
+    {% if page.description %}
+    <meta name="description" content="{{ page.description }}" />
+    {% endif %}
+    <!-- Tailwind CSS CDN -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <!-- FontAwesome Icons -->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+    />
+    <!-- Google Fonts Inter & Montserrat -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Montserrat:wght@700;800;900&display=swap"
+      rel="stylesheet"
+    />
+    <script>
+      tailwind.config = {
+        theme: {
+          extend: {
+            fontFamily: {
+              sans: ["Inter", "sans-serif"],
+              heading: ["Montserrat", "sans-serif"],
+            },
+            colors: {
+              fanese: {
+                granata: '#7A1C2C',
+                granatadark: '#58111D',  // Torna granata intenso (niente più sfumature nere)
+                granatalight: '#9C273B',
+                gold: '#FFFFFF',         // Resta bianco puro per badge, icone e bordi
+                goldlight: '#F4F4F5',
+                navy: '#09090B',
+                bg: '#FDFBFB'
+              },
+            },
+          },
+        },
+      };
+    </script>
+    <style>
+      .hero-pattern {
+        background-color: #7a1c2c;
+        background-image:
+          radial-gradient(#9c273b 1px, transparent 1px),
+          radial-gradient(#9c273b 1px, #7a1c2c 1px);
+        background-size: 24px 24px;
+        background-position:
+          0 0,
+          12px 12px;
+      }
+      .card-hover {
+        transition: all 0.3s ease;
+      }
+      .card-hover:hover {
+        transform: translateY(-4px);
+        box-shadow: 0 12px 24px -10px rgba(122, 28, 44, 0.25);
+      }
+    </style>
+  </head>
+  <body
+    class="bg-slate-900 font-sans text-slate-800 antialiased selection:bg-fanese-gold selection:text-fanese-granatadark"
+  >
+    {{ content }}
+  </body>
+</html>
